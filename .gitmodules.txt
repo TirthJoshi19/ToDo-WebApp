@@ -1,0 +1,3 @@
+[submodule "ToDo-WebApp"]
+  path = ToDo-WebApp
+  url = https://github.com/TirthJoshi19/ToDo-WebApp.git
